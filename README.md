@@ -71,5 +71,14 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 🎧 Discord: https://discord.gg/KhodeFerqncis  
 
 ---
+## 📊 Skills Graph
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezamahdavi&layout=compact&theme=radical)
+
+---
+## 📈 GitHub Activity
+
+![Amirreza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirrezamahdavi&theme=react-dark)
+
+----
 <p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
