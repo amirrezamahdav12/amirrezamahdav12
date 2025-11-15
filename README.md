@@ -65,7 +65,7 @@ Passionate Full-Stack & Game Developer focused on creating meaningful, scalable 
 
 ## 🌐 Connect
 🌍 Website: https://www.amirrezamahdavi.com  
-💬 Telegram: https://t.me/KhodeFerqncis  
+💬 Telegram: https://t.me/@Khode_Francis  
 🎧 Discord: https://discord.gg/KhodeFerqncis  
 
 ---
