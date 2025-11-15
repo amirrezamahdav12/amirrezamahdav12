@@ -5,7 +5,7 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 
 ---
 
-## 🚀 Programming & Tech Stack
+## 🚀 Programming & truma
 
 #### 💻 Frontend & Cross-Platform
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
