@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Amirreza</h1>
 <p align="center">
-Passionate Full-Stack & Game Developer focused on creating meaningful, scalable and high-performance applications.
+Passionate backend & Game Developer focused on creating meaningful, scalable and high-performance applications.
 </p>
 
 ---
