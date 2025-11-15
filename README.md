@@ -8,40 +8,25 @@ I believe: <strong>If there is no way, I will build one.</strong> ✨
 
 ---
 
-### 🚀 About Me
-- 🎮 Game Developer (Unity / C#)
-- 🌐 JavaScript & Fullstack Enthusiast (Node.js / React)
-- 🎨 Motion & Graphic designer (PS / AE / Illustrator / C4D)
-- 🧠 Always learning, always improving
-- 🌙 Night coder & tea lover 🍵
+### 🛠 Programming & Tech Stack
 
----
+#### 💻 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🛠 Tech & Skills
+#### 🎮 Game Engines
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-#### 💻 Programming & Game Dev
-- **C#**, **Unity**
-- **JavaScript**, **Node.js**, **React**
-- **HTML**, **CSS**, **SCSS**, **Tailwind CSS**
-- **Git & GitHub**
+#### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-#### 🎨 Design & Creative Tools
-- Photoshop | After Effects | Illustrator | Cinema 4D
-
-#### 🧠 Soft Skills
-- Teamwork & communication 🤝
-- Creative problem-solving 🧩
-- Time management & self-organization ⏳
-- Fast self-learner 📚
-
----
-
-### 🔥 Currently Learning
-- **C++** for Unreal Engine
-- **Unreal Engine** fundamentals
-- **Blender** for 3D modeling
-- Clean Architecture & Design Patterns
-- Multiplayer & Netcode systems
+#### 🧾 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
@@ -63,14 +48,6 @@ I believe: <strong>If there is no way, I will build one.</strong> ✨
 🌍 Website: https://www.amirrezamahdavi.com  
 💬 Telegram: https://t.me/KhodeFerqncis  
 🎧 Discord: https://discord.gg/KhodeFerqncis  
-
----
-
-### 🎯 Goals
-- Build unique and enjoyable games 🎮
-- Contribute to open source projects 🌍
-- Grow a strong and professional portfolio
-- Collaborate with international tech & game studios
 
 ---
 
