@@ -27,6 +27,11 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+#### 🖼️ Image Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-FAFAFA?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ---
 
