@@ -46,9 +46,9 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 ---
 
 ## 📁 Featured Projects
-⬜ (Soon) **Portfolio WebApp** — React + SSR + Cloud Deployment  
+⬜ (Soon) **Portfolio-WebApp** — React + SSR + Cloud Deployment  
 ⬜ (Soon) **Cross-Platform Mobile App** — React Native + Express.js backend  
-⬜ (Soon) **Multiplayer Game Prototype** — Unreal Engine / Unity Netcode
+⬜ (Soon) **horror-game** — Unity engine / Unity Netcode
 
 > Want your project listed here? Let’s collaborate!
 
