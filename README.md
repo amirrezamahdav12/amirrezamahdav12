@@ -46,11 +46,14 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 ---
 
 ## 📁 Featured Projects
+
 ⬜ **diff_Checker** — python  
 
 ⬜ **Server_side_Application** —  Express.js backend  
 
 ⬜ **True_Fear** — Unity engine / Unity Netcode  
+
+⬜ **React-Native template** — React-Native / TypeScript  
 
 > Want your project listed here? Let’s collaborate!
 
