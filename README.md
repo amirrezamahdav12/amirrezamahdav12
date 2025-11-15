@@ -71,14 +71,17 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 ## 📊 Skills Graph
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezamahdavi&layout=compact&theme=radical)
 
-| Skill            | Level |
+| Language / Tech  | Level |
 |------------------|-------|
-| React / TS       | 🔥🔥🔥🔥 |
+| JavaScript       | 🔥🔥🔥🔥 |
+| TypeScript       | 🔥🔥🔥🔥 |
+| Python           | 🔥🔥🔥 |
+| C++              | 🔥🔥🔥 |
+| C#               | 🔥🔥🔥🔥 |
+| React / ReactNative | 🔥🔥🔥🔥 |
 | Node.js / Express| 🔥🔥🔥 |
 | MySQL / SQLServer| 🔥🔥🔥 |
 | Unity / Unreal   | 🔥🔥🔥🔥 |
-| C#               | 🔥🔥🔥🔥 |
-
 ---
 
 ## 📈 GitHub Activity
