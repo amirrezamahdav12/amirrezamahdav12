@@ -47,7 +47,6 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 
 ## 📁 Featured Projects
 ⬜ **diff_Checker** — python _
-
 ⬜ **Server_side_Application** —  Express.js backend  
 ⬜ **True_Fear** — Unity engine / Unity Netcode
 
