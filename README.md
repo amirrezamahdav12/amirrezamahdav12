@@ -46,11 +46,11 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 ---
 
 ## 📁 Featured Projects
-⬜ **diff_Checker** — python 
+⬜ **diff_Checker** — python  
 
 ⬜ **Server_side_Application** —  Express.js backend  
 
-⬜ **True_Fear** — Unity engine / Unity Netcode
+⬜ **True_Fear** — Unity engine / Unity Netcode  
 
 > Want your project listed here? Let’s collaborate!
 
@@ -65,20 +65,33 @@ Passionate backend & Game Developer focused on creating meaningful, scalable and
 
 ---
 
+## 📊 Skills Graph
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezamahdavi&layout=compact&theme=radical)
+
+| Skill            | Level |
+|------------------|-------|
+| React / TS       | 🔥🔥🔥🔥 |
+| Node.js / Express| 🔥🔥🔥 |
+| MySQL / SQLServer| 🔥🔥🔥 |
+| Unity / Unreal   | 🔥🔥🔥🔥 |
+| C#               | 🔥🔥🔥🔥 |
+
+---
+
+## 📈 GitHub Activity
+![Amirreza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirrezamahdavi&theme=react-dark)
+
+![Amirreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrezamahdavi&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirrezamahdavi&theme=radical)
+
+---
+
 ## 🌐 Connect
 🌍 Website: https://www.amirrezamahdavi.com  
 💬 Telegram: https://t.me/@Khode_Francis  
 🎧 Discord: https://discord.gg/KhodeFerqncis  
 
 ---
-## 📊 Skills Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezamahdavi&layout=compact&theme=radical)
-
----
-## 📈 GitHub Activity
-
-![Amirreza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirrezamahdavi&theme=react-dark)
-
-----
 <p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
